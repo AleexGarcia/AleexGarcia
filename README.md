@@ -1,7 +1,7 @@
 ### Olá! Sou Alexandre Garcia
 
 - 🔭 Desenvolvedor Front end
-- 🌱 Estudando React c/ Typescript
+- 🌱 Estudando ReactJS e Typescript
 
 <div align="center">
   <a href="https://github.com/AleexGarcia">
