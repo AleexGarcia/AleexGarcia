@@ -1,7 +1,5 @@
 ### Olá! Sou Alexandre Garcia
 
-- 🔭 Desenvolvedor Front end
-
 <div align="center">
   <a href="https://github.com/AleexGarcia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleexGarcia&layout=compact&langs_count=7&theme=radical"/>
