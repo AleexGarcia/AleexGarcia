@@ -1,7 +1,7 @@
 # Olá! Me chamo Alexandre Garcia! 👋
 
 ## 🎓 Sobre mim
-Desenvolvedor Fullstack em constante evolução. Atualmente, estou no 6° período de Sistemas de Informação, buscando aprimorar minhas habilidades por meio da plataforma DIO e construindo um portfólio sólido com projetos práticos.
+Desenvolvedor Fullstack em constante evolução. Atualmente, estou no 6° período de Sistemas de Informação, buscando aprimorar minhas habilidades e construindo um portfólio sólido com projetos práticos.
 
 ### 🚀 Minha Jornada 
 Iniciei minha trajetória na programação durante o curso de Engenharia Civil, mas foi como desenvolvedor que encontrei minha verdadeira paixão. Com 28 anos, estou comprometido com a aprendizagem contínua desde os primeiros passos da minha jornada acadêmica.
