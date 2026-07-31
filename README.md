@@ -66,6 +66,13 @@
 
 ---
 
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AleexGarcia&layout=compact&langs_count=7&theme=blue-green" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=AleexGarcia&theme=blue-green" alt="Estatísticas de Contribuição" />
+</div>
+
 ### 🤝 Vamos nos conectar?
 Estou sempre aberto a novos desafios, projetos e conexões profissionais na área de tecnologia.
 * 💼 **LinkedIn:** [linkedin.com/in/aleexgarcia](https://www.linkedin.com/in/aleexgarcia/)
