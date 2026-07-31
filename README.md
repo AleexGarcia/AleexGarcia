@@ -66,15 +66,6 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleexGarcia&layout=compact&langs_count=7&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleexGarcia&theme=blue-green"/>
-</div>
-
----
-
 ### 🤝 Vamos nos conectar?
 Estou sempre aberto a novos desafios, projetos e conexões profissionais na área de tecnologia.
 * 💼 **LinkedIn:** [linkedin.com/in/aleexgarcia](https://www.linkedin.com/in/aleexgarcia/)
