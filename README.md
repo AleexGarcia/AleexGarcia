@@ -1,17 +1,8 @@
 # Olá, eu sou o Alexandre Garcia! 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aleexgarcia/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://portfolio-aleexgarcia.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:alexandre_augusto_garcia@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-
+<a href="https://www.linkedin.com/in/aleexgarcia/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://aleexgarcia.netlify.app/" target="_blank">![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
+<a href="mailto:alexandre_augusto_garcia@hotmail.com" target="_blank">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 ---
 
 ### 🚀 Sobre Mim
