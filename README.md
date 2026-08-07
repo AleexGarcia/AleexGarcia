@@ -1,7 +1,7 @@
 # Olá, eu sou o Alexandre Garcia! 👋
 
 <a href="https://www.linkedin.com/in/aleexgarcia/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://aleexgarcia.netlify.app/" target="_blank">![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
+<a href="https://aleexgarcia.dev.br/" target="_blank">![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
 <a href="mailto:alexandre_augusto_garcia@hotmail.com" target="_blank">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 ---
 
