@@ -118,23 +118,6 @@ This combination allows me to work across the entire application lifecycle — f
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.shion.dev/api?username=AleexGarcia&theme=blue-green"
-    alt="Alexandre Garcia's GitHub statistics"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=AleexGarcia&layout=compact&langs_count=7&theme=blue-green"
-    alt="Most used programming languages"
-  />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to **new challenges, interesting projects, and professional opportunities** in software development.
